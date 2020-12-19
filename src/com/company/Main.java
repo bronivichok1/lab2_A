@@ -6,6 +6,9 @@ public class Main{
 
         Formula app = new Formula();
 
+
+
+
         app.setVisible(true);
 
     }
