@@ -109,8 +109,11 @@ public class Formula extends JFrame {
         public void actionPerformed (ActionEvent i) {
 
             input_x.setText("");
+
             input_y.setText("");
+
             input_z.setText("");
+            
             result.setText("");
         }
     }
